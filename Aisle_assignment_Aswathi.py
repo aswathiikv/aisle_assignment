@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[8]:
 
 
 import re,math
@@ -62,7 +61,6 @@ if __name__ == '__main__':
     # 1 box of imported chocolates at 11.25''')
 
 
-# In[ ]:
 
 
 
